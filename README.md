@@ -30,3 +30,7 @@ for real-world business decision-making.
 ## 👤 Author
 **Asad Ali**  
 Aspiring Data Analyst
+## 📸 Dashboard Preview
+
+![Dashboard](Screenshot%20(230).png)
+
