@@ -10,6 +10,7 @@ to generate meaningful business insights.
 - Pivot Tables
 - Charts & Slicers
 - Data Cleaning & Transformation
+- Basic VBA
 
 ## 📈 Key Insights
 - West region generated the highest sales
